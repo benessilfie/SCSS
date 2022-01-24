@@ -71,13 +71,28 @@ body {
       h1 {
         font-size: 5.5rem;
         font-weight: 500;
-        margin: 4rem 30rem;
+        margin: 5rem 30rem 3rem 30rem;
         line-height: 5.3rem;
       }
 
       p {
-        margin: 4rem 30rem;
+        margin: 0 31rem;
+        font-size: 1.175rem;
       }
+    }
+
+    .main--cta {
+      display: flex;
+      margin: 3rem;
+      align-items: center;
+      justify-content: center;
+    }
+    .cta--btn__01 {
+      color: #fff;
+      margin-right: 1rem;
+      padding: 1rem 2rem;
+      background: #01c776;
+      text-decoration: none;
     }
   }
 }

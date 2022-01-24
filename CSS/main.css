@@ -89,11 +89,33 @@ body main .content {
 body main .content h1 {
   font-size: 5.5rem;
   font-weight: 500;
-  margin: 4rem 30rem;
+  margin: 5rem 30rem 3rem 30rem;
   line-height: 5.3rem;
 }
 
 body main .content p {
-  margin: 4rem 30rem;
+  margin: 0 31rem;
+  font-size: 1.175rem;
+}
+
+body main .main--cta {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 3rem;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+body main .cta--btn__01 {
+  color: #fff;
+  margin-right: 1rem;
+  padding: 1rem 2rem;
+  background: #01c776;
+  text-decoration: none;
 }
 /*# sourceMappingURL=main.css.map */
