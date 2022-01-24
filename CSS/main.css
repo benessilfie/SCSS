@@ -8,7 +8,7 @@ body {
   background: #003737;
 }
 
-.navbar .container {
+body .navbar .container {
   margin: 0 5rem;
   padding: 2rem;
   display: -webkit-box;
@@ -25,29 +25,29 @@ body {
           justify-content: space-between;
 }
 
-.navbar a {
+body .navbar a {
   color: #fff;
   text-decoration: none;
 }
 
-.navbar svg {
+body .navbar svg {
   width: 1.2rem;
   height: 1.2rem;
   color: #fff;
 }
 
-.navbar .nav--logo a {
+body .navbar .nav--logo a {
   font-size: 1.5rem;
   font-weight: 600;
 }
 
-.navbar .nav--items {
+body .navbar .nav--items {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
 }
 
-.navbar .nav--items .nav--items__01 {
+body .navbar .nav--items .nav--items__01 {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -59,18 +59,18 @@ body {
           justify-content: center;
 }
 
-.navbar .nav--cta {
+body .navbar .nav--cta {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
 }
 
-.navbar .nav--cta svg {
+body .navbar .nav--cta svg {
   width: 1.4rem;
   height: 1.4rem;
 }
 
-.navbar .nav--cta .cta--btn a {
+body .navbar .nav--cta .cta--btn a {
   margin-left: 1rem;
   font-size: 0.85em;
   font-weight: 600;
@@ -78,5 +78,16 @@ body {
   color: #003737;
   border-radius: 0.2rem;
   background: #01c776;
+}
+
+body main .content {
+  display: block;
+  text-align: center;
+  margin: 4rem 20rem;
+  color: #fff;
+}
+
+body main .content h1 {
+  font-size: 5rem;
 }
 /*# sourceMappingURL=main.css.map */
