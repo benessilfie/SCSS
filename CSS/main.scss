@@ -36,8 +36,8 @@ body {
       display: flex;
       font-size: 0.9em;
 
-      .nav--items__01 {
-        display: flex;
+      .nav--items__01 a,
+      svg {
         align-items: center;
         justify-content: center;
       }

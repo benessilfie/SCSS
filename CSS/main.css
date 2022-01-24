@@ -48,10 +48,8 @@ body .navbar .nav--items {
   font-size: 0.9em;
 }
 
-body .navbar .nav--items .nav--items__01 {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
+body .navbar .nav--items .nav--items__01 a,
+body .navbar .nav--items svg {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
