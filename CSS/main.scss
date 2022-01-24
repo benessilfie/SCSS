@@ -66,11 +66,13 @@ body {
     .content {
       display: block;
       text-align: center;
-      margin: 4rem 20rem;
       color: #fff;
 
       h1 {
-        font-size: 5rem;
+        font-size: 4rem;
+        font-weight: 500;
+        margin: 4rem 30rem;
+        line-height: 4.7rem;
       }
     }
   }
