@@ -31,13 +31,13 @@ body .navbar a {
 }
 
 body .navbar svg {
-  width: 1.2rem;
-  height: 1.2rem;
+  width: 1rem;
+  height: 1rem;
   color: #fff;
 }
 
 body .navbar .nav--logo a {
-  font-size: 1.5rem;
+  font-size: 1rem;
   font-weight: 600;
 }
 
@@ -45,6 +45,7 @@ body .navbar .nav--items {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  font-size: 0.9em;
 }
 
 body .navbar .nav--items .nav--items__01 {
@@ -72,7 +73,7 @@ body .navbar .nav--cta svg {
 
 body .navbar .nav--cta .cta--btn a {
   margin-left: 1rem;
-  font-size: 0.85em;
+  font-size: 0.65em;
   font-weight: 600;
   padding: 0.65rem 0.85rem;
   color: #003737;
