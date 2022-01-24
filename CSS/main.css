@@ -90,14 +90,14 @@ body main .content h1 {
   font-size: 6.675rem;
   font-weight: 500;
   font-family: "TT Commons";
-  margin: 5rem 30rem 2rem 29rem;
+  margin: 5rem 30rem 1.5rem 29rem;
   line-height: 6rem;
 }
 
 body main .content p {
-  margin: 0 31rem;
+  margin: 0 32rem;
   color: #c4dfe1;
-  font-size: 1rem;
+  font-size: 1.075rem;
   font-weight: 500;
 }
 
@@ -105,7 +105,7 @@ body main .main--cta {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  margin: 2rem;
+  margin: 2.75rem;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -114,14 +114,22 @@ body main .main--cta {
           justify-content: center;
 }
 
-body main .cta--btn__01 {
+body main a {
   color: #003737;
-  font-size: 0.85rem;
   font-weight: 600;
   margin-right: 1rem;
-  padding: 0.65rem 1.75rem;
-  border-radius: 0.15rem;
-  background: #01c776;
+  font-size: 0.85rem;
+  border-radius: 0.195rem;
   text-decoration: none;
+}
+
+body main .cta--btn__01 {
+  padding: 0.8rem 1.7rem;
+  background: #01c776;
+}
+
+body main .cta--btn__02 {
+  padding: 0.8rem 1.75rem;
+  background: #fff;
 }
 /*# sourceMappingURL=main.css.map */
