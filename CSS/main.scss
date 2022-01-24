@@ -9,7 +9,7 @@ body {
   .navbar {
     .container {
       margin: 0 5rem;
-      padding: 2rem;
+      padding: 1rem;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -34,21 +34,55 @@ body {
 
     .nav--items {
       display: flex;
-      font-size: 0.9em;
+      font-size: 0.75em;
 
-      .nav--items__01 a,
-      svg {
+      img {
+        width: 0.75rem;
+        height: 0.75rem;
+        margin-right: 0.5rem;
+        color: #fff;
+      }
+      a {
+        margin: 0 0.5rem;
+      }
+
+      .nav--item__01 {
+        display: flex;
         align-items: center;
-        justify-content: center;
+      }
+
+      .nav--item__02 {
+        display: flex;
+        align-items: center;
+        // margin-right: 1.75rem;
+      }
+
+      .nav--item__03 {
+        display: flex;
+        align-items: center;
+        // margin-right: 1.75rem;
+      }
+
+      .nav--item__04 {
+        display: flex;
+        align-items: center;
+        // margin-right: 1.75rem;
+      }
+
+      .nav--item__05 {
+        display: flex;
+        align-items: center;
       }
     }
 
     .nav--cta {
       display: flex;
+      align-items: center;
+      justify-content: center;
 
-      svg {
-        width: 1.4rem;
-        height: 1.4rem;
+      img {
+        width: 1.25rem;
+        height: 1.25rem;
       }
 
       .cta--btn a {
@@ -70,15 +104,15 @@ body {
       color: #fff;
 
       h1 {
-        font-size: 3rem;
+        font-size: 5em;
         font-weight: 500;
         font-family: "TT Commons";
-        // margin: 5rem 30rem 1.5rem 15rem;
-        // line-height: 6rem;
+        line-height: 5rem;
+        margin-bottom: 0.75rem;
       }
 
       p {
-        margin: 0 20rem;
+        margin: 0 28rem;
         color: #c4dfe1;
         font-size: 0.75rem;
         font-weight: 500;
