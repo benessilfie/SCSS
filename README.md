@@ -6,8 +6,6 @@ This is a simple footer built with to be responsive with flexbox
 
 <img src="https://raw.githubusercontent.com/essilfiequansah/Responsive-Footer/master/screenshots/art1.png" width="80%"  height="40%"/>
 
-## Art - Mobile & Tablet View
-
 Update README.md## Author 😊
 
 **Benjamin Ofori-Quansah**
