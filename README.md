@@ -1,4 +1,4 @@
-# Hero Page
+# Hero Page Build
 
 This is a simple hero section of a landing page built with flexbox
 
