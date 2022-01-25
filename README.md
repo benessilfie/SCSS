@@ -2,7 +2,7 @@
 
 This is a simple footer built with to be responsive with flexbox
 
-## Art - Desktop View
+## Art
 
 <img src="https://raw.githubusercontent.com/essilfiequansah/Responsive-Footer/master/screenshots/art1.png" width="80%"  height="40%"/>
 
