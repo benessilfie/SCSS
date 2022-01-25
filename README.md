@@ -1,4 +1,4 @@
-# Responsive Footer
+# Hero Page
 
 This is a simple footer built with to be responsive with flexbox
 
