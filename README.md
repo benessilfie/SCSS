@@ -1,6 +1,6 @@
 # Hero Page
 
-This is a simple footer built with to be responsive with flexbox
+This is a simple hero section of a landing page built with flexbox
 
 ## Art
 
