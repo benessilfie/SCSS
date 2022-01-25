@@ -8,7 +8,7 @@ This is a simple hero section of a landing page built with flexbox
 
 ## Author
 
-**Benjamin Ofori-Quansah**
+**Essilfie Quansah**
 
 - [**Twitter**](https://twitter.com/essilfiequansah)
 - [**Linkedin**](https://www.linkedin.com/in/essilfiequansah/)
